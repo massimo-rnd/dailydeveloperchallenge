@@ -1,3 +1,5 @@
+![Repo-Image](https://druffko.gg/github-images/developer-challenge.png)
+
 # 365 Days of Development Challenges
 
 Welcome to **365 Days of Development Challenges**! This repository contains a daily coding challenge designed to help you enhance your programming skills throughout the year. Each challenge is language-agnostic, meaning you can complete them in any programming language of your choice. Whether you're a beginner looking to solidify your understanding of the basics or an experienced developer seeking to sharpen your skills, this repository has something for everyone.
